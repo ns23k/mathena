@@ -1,0 +1,1 @@
+from mathena.basic.primefactorization import prime_factorization
