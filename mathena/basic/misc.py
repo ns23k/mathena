@@ -2,7 +2,7 @@ import math
 from typing import *
 
 
-def cuberoot(x: int) -> Union[int, float]:
+def cuberoot(x: Union[int, float]) -> Union[int, float]:
     if x < 0:
         x = abs(x)
         cube_root = x**(1/3)*(-1)
