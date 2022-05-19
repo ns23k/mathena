@@ -22,7 +22,7 @@ def is_perfect_square(num: int) -> bool:
 
 
 def is_perfect_cube(num: int) -> bool:
-    cube_root = round(num**(1/3))
+    cube_root = cuberoot(num)
     # If cube of cube_root is equals to num,
     if cube_root * cube_root * cube_root == num:
         return True
