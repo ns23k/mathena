@@ -12,9 +12,8 @@ def cuberoot(x: Union[int, float]) -> Union[int, float]:
 
 
 def is_perfect_square(num: int) -> bool:
-    # If ceil and floor are equal
-    # the number is a perfect
-    # square
+    """ If ceil and floor are equal
+    the number is a perfect square"""
     if math.ceil(math.sqrt(num)) == math.floor(math.sqrt(num)):
         return True
     else:
