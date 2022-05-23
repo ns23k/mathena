@@ -11,7 +11,7 @@ def prime_factorization(num: int) -> List[int]:
 
     # n must be odd at this point
     # so a skip of 2 ( i = i + 2) can be used
-    for i in range(3, int(math.sqrt(n))+1,2):
+    for i in range(3, int(math.sqrt(n)) + 1, 2):
 
         # while i divides n , print i and divide n
         while n % i == 0:
@@ -24,4 +24,3 @@ def prime_factorization(num: int) -> List[int]:
         factors.append(n)
 
     return factors
-

@@ -7,4 +7,3 @@ def is_valid_angles(angle1: int, angle2: int, angle3: int) -> bool:
         return False
     else:
         return True
-
