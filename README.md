@@ -1,5 +1,13 @@
 # mathena
 A python library that eases maths 
+[![image](https://flat.badgen.net/github/stars/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/stargazers)
+[![image](https://flat.badgen.net/github/forks/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/network/members)
+[![image](https://flat.badgen.net/github/open-issues/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/issues)
+[![image](https://flat.badgen.net/github/open-prs/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/pulls)
+[![image](https://flat.badgen.net/github/commits/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/commits/master)
+[![image](https://flat.badgen.net/github/license/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/LICENCE)
+[![image](https://flat.badgen.net/github/contributors/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/graphs/contributors)
+[![image](https://flat.badgen.net/github/release/Naman23-coder/mathena/)](https://github.com/Naman23-coder/mathena/releases)
 
 # Install
 
