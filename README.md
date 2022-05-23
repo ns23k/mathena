@@ -1,6 +1,12 @@
 # mathena
 A python library that eases maths 
 
+# Install
+
+```bash
+pip install mathena
+```
+
 # functions
 
 cubebroot
@@ -32,4 +38,4 @@ print(mathena.is_perfect_cube(27))
 
 ```
 
-i
+
